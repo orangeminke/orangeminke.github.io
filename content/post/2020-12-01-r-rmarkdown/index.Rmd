@@ -35,3 +35,11 @@ pie(
   init.angle = -50, border = NA
 )
 ```
+
+# ok here is some more testing
+
+and here it is in regular text like this have some testing
+
+```{r more tests}
+plot(rnorm(100))
+```
